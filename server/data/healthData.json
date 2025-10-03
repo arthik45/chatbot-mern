@@ -1,0 +1,623 @@
+[
+  {
+    "question": "What is fever?",
+    "answer": "Fever is a temporary increase in your body temperature, often due to an illness."
+  },
+  {
+    "question": "How to treat common cold?",
+    "answer": "Rest, drink fluids, and take over-the-counter medicines to relieve symptoms."
+  },
+  {
+    "question": "What is hypertension?",
+    "answer": "Hypertension is high blood pressure, which can lead to serious health problems."
+  },
+  {
+    "question": "What are the symptoms of diabetes?",
+    "answer": "Common symptoms include frequent urination, excessive thirst, unexplained weight loss, and fatigue."
+  },
+  {
+    "question": "How can I prevent flu?",
+    "answer": "Get vaccinated annually, wash hands frequently, and avoid close contact with sick people."
+  },
+  {
+    "question": "What is asthma?",
+    "answer": "Asthma is a condition in which your airways narrow and swell, producing extra mucus, making it hard to breathe."
+  },
+  {
+    "question": "How to maintain a healthy diet?",
+    "answer": "Eat a variety of fruits, vegetables, whole grains, lean proteins, and limit sugar, salt, and unhealthy fats."
+  },
+  {
+    "question": "What is high cholesterol?",
+    "answer": "High cholesterol means there is too much cholesterol in your blood, which can increase the risk of heart disease."
+  },
+  {
+    "question": "How to manage stress?",
+    "answer": "Practice relaxation techniques, exercise regularly, get enough sleep, and talk to someone you trust."
+  },
+  {
+    "question": "What is anemia?",
+    "answer": "Anemia is a condition where your body doesn’t have enough healthy red blood cells to carry oxygen to tissues."
+  },
+  {
+    "question": "How to improve immunity?",
+    "answer": "Eat a balanced diet, exercise regularly, get enough sleep, and manage stress."
+  },
+  {
+    "question": "What is a migraine?",
+    "answer": "A migraine is a severe headache often accompanied by nausea, vomiting, and sensitivity to light or sound."
+  },
+  {
+    "question": "How to prevent dehydration?",
+    "answer": "Drink enough water daily, especially during hot weather or when exercising."
+  },
+  {
+    "question": "What is osteoporosis?",
+    "answer": "Osteoporosis is a condition where bones become weak and brittle, increasing the risk of fractures."
+  },
+  {
+    "question": "How to maintain mental health?",
+    "answer": "Stay socially connected, exercise regularly, get enough sleep, and seek help if feeling anxious or depressed."
+  },
+  {
+    "question": "What is influenza?",
+    "answer": "Influenza, or flu, is a contagious respiratory infection caused by influenza viruses."
+  },
+  {
+    "question": "How to treat a headache?",
+    "answer": "Rest in a quiet, dark room, stay hydrated, and use over-the-counter pain relievers if needed."
+  },
+  {
+    "question": "What is arthritis?",
+    "answer": "Arthritis is inflammation of the joints, causing pain, swelling, and stiffness."
+  },
+  {
+    "question": "How to control blood sugar?",
+    "answer": "Eat a balanced diet, exercise regularly, monitor your blood sugar, and take medications as prescribed."
+  },
+  {
+    "question": "What is depression?",
+    "answer": "Depression is a mood disorder that causes persistent feelings of sadness and loss of interest."
+  },
+  {
+    "question": "How to prevent heart disease?",
+    "answer": "Exercise regularly, eat a healthy diet, avoid smoking, and manage stress and blood pressure."
+  },
+  {
+    "question": "What is tuberculosis?",
+    "answer": "Tuberculosis is a bacterial infection that primarily affects the lungs and can be contagious."
+  },
+  {
+    "question": "How to reduce anxiety?",
+    "answer": "Practice mindfulness, deep breathing exercises, regular physical activity, and seek professional help if needed."
+  },
+  {
+    "question": "What is stroke?",
+    "answer": "A stroke occurs when blood flow to a part of the brain is interrupted, causing brain damage."
+  },
+  {
+    "question": "How to treat diarrhea?",
+    "answer": "Drink plenty of fluids, eat bland foods, and consider oral rehydration solutions."
+  },
+  {
+    "question": "What is kidney stone?",
+    "answer": "A kidney stone is a hard deposit of minerals and salts that forms in the kidneys."
+  },
+  {
+    "question": "How to maintain healthy skin?",
+    "answer": "Wash regularly, moisturize, use sunscreen, eat a balanced diet, and drink plenty of water."
+  },
+  {
+    "question": "What is pneumonia?",
+    "answer": "Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid."
+  },
+  {
+    "question": "How to treat constipation?",
+    "answer": "Eat more fiber, drink plenty of water, exercise regularly, and use mild laxatives if necessary."
+  },
+  {
+    "question": "What is migraine trigger?",
+    "answer": "Common triggers include stress, certain foods, hormonal changes, sleep disturbances, and bright lights."
+  },
+  {
+    "question": "How to prevent obesity?",
+    "answer": "Maintain a healthy diet, exercise regularly, avoid excessive sugar and fat, and monitor weight."
+  },
+  {
+    "question": "What is insomnia?",
+    "answer": "Insomnia is a sleep disorder that makes it difficult to fall asleep or stay asleep."
+  },
+  {
+    "question": "How to treat a sprain?",
+    "answer": "Rest, ice the area, compress with a bandage, and elevate the injured limb."
+  },
+  {
+    "question": "What is bronchitis?",
+    "answer": "Bronchitis is the inflammation of the bronchial tubes, causing cough and mucus production."
+  },
+  {
+    "question": "How to lower high blood pressure?",
+    "answer": "Reduce salt intake, exercise regularly, maintain a healthy weight, and follow your doctor's advice."
+  },
+  {
+    "question": "What is anemia caused by?",
+    "answer": "Anemia can be caused by iron deficiency, vitamin B12 deficiency, chronic diseases, or blood loss."
+  },
+  {
+    "question": "How to prevent heart attack?",
+    "answer": "Eat a healthy diet, exercise regularly, avoid smoking, control blood pressure, and manage stress."
+  },
+  {
+    "question": "What is food poisoning?",
+    "answer": "Food poisoning is illness caused by consuming contaminated food or beverages."
+  },
+  {
+    "question": "How to treat minor burns?",
+    "answer": "Cool the burn under running water, cover with a clean cloth, and avoid applying ice directly."
+  },
+  {
+    "question": "What is gout?",
+    "answer": "Gout is a type of arthritis caused by excess uric acid, leading to joint pain and swelling."
+  },
+  {
+    "question": "How to improve digestion?",
+    "answer": "Eat a fiber-rich diet, drink plenty of water, eat slowly, and exercise regularly."
+  },
+  {
+    "question": "What is eczema?",
+    "answer": "Eczema is a skin condition that causes red, itchy, and inflamed patches on the skin."
+  },
+  {
+    "question": "How to treat sore throat?",
+    "answer": "Gargle with warm salt water, drink warm fluids, rest your voice, and take pain relievers if needed."
+  },
+  {
+    "question": "What is hepatitis?",
+    "answer": "Hepatitis is inflammation of the liver, often caused by viral infections or excessive alcohol use."
+  },
+  {
+    "question": "How to prevent tooth decay?",
+    "answer": "Brush twice daily, floss regularly, limit sugary foods, and visit the dentist for check-ups."
+  },
+  {
+    "question": "What is a hernia?",
+    "answer": "A hernia occurs when an internal organ pushes through a weak spot in the muscle or tissue wall."
+  },
+  {
+    "question": "How to treat diarrhea in children?",
+    "answer": "Give plenty of fluids, oral rehydration solutions, and avoid sugary or fatty foods."
+  },
+  {
+    "question": "What is varicose veins?",
+    "answer": "Varicose veins are enlarged, twisted veins, usually in the legs, caused by weak vein walls or valves."
+  },
+  {
+    "question": "How to maintain eye health?",
+    "answer": "Eat vitamin-rich foods, take regular screen breaks, wear protective eyewear, and get eye exams."
+  },
+  {
+    "question": "What is a heart murmur?",
+    "answer": "A heart murmur is an unusual sound during a heartbeat, often caused by turbulent blood flow."
+  },
+  {
+    "question": "How to treat dehydration in adults?",
+    "answer": "Drink plenty of fluids, use oral rehydration solutions, and seek medical care if severe."
+  },
+  {
+    "question": "What is a seizure?",
+    "answer": "A seizure is a sudden, uncontrolled electrical disturbance in the brain that can cause changes in behavior, movements, or consciousness."
+  },
+  {
+    "question": "How to prevent skin infections?",
+    "answer": "Keep the skin clean, avoid sharing personal items, and treat cuts or wounds promptly."
+  },
+  {
+    "question": "What is a stroke warning sign?",
+    "answer": "Warning signs include sudden numbness, weakness, confusion, difficulty speaking, and trouble seeing."
+  },
+  {
+    "question": "How to reduce cholesterol naturally?",
+    "answer": "Eat fiber-rich foods, avoid trans fats, exercise regularly, and maintain a healthy weight."
+  },
+  {
+    "question": "What is influenza vaccine?",
+    "answer": "The influenza vaccine is an injection that protects against seasonal flu viruses."
+  },
+  {
+    "question": "How to relieve joint pain?",
+    "answer": "Rest the joint, apply ice or heat, take over-the-counter pain relievers, and do gentle exercises."
+  },
+  {
+    "question": "What is appendicitis?",
+    "answer": "Appendicitis is inflammation of the appendix, often causing severe abdominal pain and requiring surgery."
+  },
+  {
+    "question": "How to prevent mosquito-borne diseases?",
+    "answer": "Use mosquito repellents, wear long sleeves, use bed nets, and eliminate standing water."
+  },
+  {
+    "question": "What is shingles?",
+    "answer": "Shingles is a viral infection causing a painful rash, caused by the reactivation of the chickenpox virus."
+  },
+  {
+    "question": "How to treat dehydration in children?",
+    "answer": "Provide oral rehydration solutions, encourage frequent sips of water, and seek medical help if severe."
+  },
+  {
+    "question": "What is restless leg syndrome?",
+    "answer": "Restless leg syndrome is a condition that causes an uncontrollable urge to move the legs, often due to discomfort."
+  },
+   {
+    "question": "What is dehydration?",
+    "answer": "Dehydration occurs when your body loses more fluids than it takes in, causing weakness and dizziness."
+  },
+  {
+    "question": "How to treat a cough?",
+    "answer": "Drink warm fluids, use honey for soothing, rest, and consider over-the-counter cough medicine if necessary."
+  },
+  {
+    "question": "What is influenza?",
+    "answer": "Influenza, or flu, is a viral infection that attacks the respiratory system and can cause fever, cough, and body aches."
+  },
+  {
+    "question": "How to prevent obesity?",
+    "answer": "Maintain a balanced diet, exercise regularly, avoid sugary and fatty foods, and monitor your weight."
+  },
+  {
+    "question": "What is a stroke?",
+    "answer": "A stroke happens when blood flow to part of the brain is blocked or reduced, causing brain cells to die."
+  },
+  {
+    "question": "How to treat acid reflux?",
+    "answer": "Avoid spicy and fatty foods, eat smaller meals, stay upright after eating, and take antacids if needed."
+  },
+  {
+    "question": "What is pneumonia?",
+    "answer": "Pneumonia is an infection that inflames the air sacs in one or both lungs, often causing cough, fever, and difficulty breathing."
+  },
+  {
+    "question": "How to improve sleep quality?",
+    "answer": "Stick to a sleep schedule, avoid caffeine late in the day, create a dark and quiet environment, and limit screen time before bed."
+  },
+  {
+    "question": "What is arthritis?",
+    "answer": "Arthritis is the inflammation of joints, leading to pain, swelling, and stiffness."
+  },
+  {
+    "question": "How to treat sunburn?",
+    "answer": "Cool the skin with water, apply aloe vera or moisturizer, stay hydrated, and avoid further sun exposure."
+  },
+  {
+    "question": "What is varicose vein?",
+    "answer": "Varicose veins are enlarged and twisted veins, often appearing in the legs, caused by weak vein valves."
+  },
+  {
+    "question": "How to prevent diabetes?",
+    "answer": "Maintain a healthy weight, exercise regularly, eat a balanced diet, and monitor blood sugar levels."
+  },
+  {
+    "question": "What is epilepsy?",
+    "answer": "Epilepsy is a neurological disorder that causes recurrent seizures due to abnormal brain activity."
+  },
+  {
+    "question": "How to treat hypothermia?",
+    "answer": "Move to a warm place, remove wet clothing, wrap in blankets, and seek medical attention immediately."
+  },
+  {
+    "question": "What is migraine?",
+    "answer": "A migraine is a severe headache often accompanied by nausea, vomiting, and sensitivity to light or sound."
+  },
+  {
+    "question": "How to prevent high blood pressure?",
+    "answer": "Eat a low-salt diet, exercise regularly, avoid smoking and excess alcohol, and maintain a healthy weight."
+  },
+  {
+    "question": "What is tuberculosis?",
+    "answer": "Tuberculosis is a contagious bacterial infection that primarily affects the lungs."
+  },
+  {
+    "question": "How to treat minor cuts?",
+    "answer": "Clean the wound, apply antiseptic, cover with a clean bandage, and monitor for infection."
+  },
+  {
+    "question": "What is anxiety disorder?",
+    "answer": "Anxiety disorder is a mental health condition that causes excessive worry, fear, or nervousness."
+  },
+  {
+    "question": "How to maintain oral health?",
+    "answer": "Brush twice daily, floss regularly, limit sugary foods, and visit the dentist for routine check-ups."
+  },
+  {
+    "question": "What is chronic fatigue syndrome?",
+    "answer": "Chronic fatigue syndrome is a condition characterized by extreme tiredness that doesn’t improve with rest."
+  },
+  {
+    "question": "How to prevent flu?",
+    "answer": "Get vaccinated annually, wash hands frequently, and avoid close contact with sick people."
+  },
+  {
+    "question": "What is gout?",
+    "answer": "Gout is a type of arthritis caused by excess uric acid, leading to sudden and severe joint pain."
+  },
+  {
+    "question": "How to treat nosebleeds?",
+    "answer": "Sit upright, pinch the soft part of your nose, lean forward slightly, and avoid tilting your head back."
+  },
+  {
+    "question": "What is obesity?",
+    "answer": "Obesity is a condition where excess body fat increases the risk of health problems like heart disease and diabetes."
+  },
+  {
+    "question": "How to prevent kidney stones?",
+    "answer": "Drink plenty of water, limit salt and oxalate-rich foods, and maintain a balanced diet."
+  },
+  {
+    "question": "What is ADHD?",
+    "answer": "Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder causing inattention, hyperactivity, and impulsivity."
+  },
+  {
+    "question": "How to treat insect bites?",
+    "answer": "Clean the area, apply anti-itch cream or cold compress, and avoid scratching."
+  },
+  {
+    "question": "What is hepatitis B?",
+    "answer": "Hepatitis B is a viral infection that causes liver inflammation and can lead to chronic liver disease."
+  },
+  {
+    "question": "How to prevent dehydration during exercise?",
+    "answer": "Drink water before, during, and after exercise, and replace electrolytes if sweating heavily."
+  },
+  {
+    "question": "What is psoriasis?",
+    "answer": "Psoriasis is a skin condition that causes red, scaly patches on the skin due to rapid skin cell growth."
+  },
+   {
+    "question": "What is a heart attack?",
+    "answer": "A heart attack occurs when blood flow to a part of the heart is blocked, causing damage to heart muscles."
+  },
+  {
+    "question": "How to treat fever at home?",
+    "answer": "Rest, drink plenty of fluids, and take over-the-counter fever reducers like paracetamol if needed."
+  },
+  {
+    "question": "What is hyperthyroidism?",
+    "answer": "Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone, speeding up metabolism."
+  },
+  {
+    "question": "How to manage asthma symptoms?",
+    "answer": "Avoid triggers, use prescribed inhalers, exercise moderately, and follow your doctor’s asthma action plan."
+  },
+  {
+    "question": "What is a stroke?",
+    "answer": "A stroke happens when blood flow to a part of the brain is blocked or a blood vessel bursts, causing brain damage."
+  },
+  {
+    "question": "How to prevent anemia?",
+    "answer": "Eat iron-rich foods, include vitamin C for absorption, and take supplements if prescribed by a doctor."
+  },
+  {
+    "question": "What is eczema?",
+    "answer": "Eczema is a skin condition causing red, itchy, and inflamed patches on the skin."
+  },
+  {
+    "question": "How to treat a sprained ankle?",
+    "answer": "Rest, ice, compression, elevation, and gentle stretching after a few days to regain mobility."
+  },
+  {
+    "question": "What is chronic bronchitis?",
+    "answer": "Chronic bronchitis is long-term inflammation of the bronchi, causing persistent cough and mucus production."
+  },
+  {
+    "question": "How to improve liver health?",
+    "answer": "Avoid alcohol, eat a balanced diet, maintain a healthy weight, and exercise regularly."
+  },
+  {
+    "question": "What is hypoglycemia?",
+    "answer": "Hypoglycemia is a condition where blood sugar levels drop below normal, causing shakiness, dizziness, and confusion."
+  },
+  {
+    "question": "How to prevent osteoporosis?",
+    "answer": "Consume enough calcium and vitamin D, exercise regularly, avoid smoking, and limit alcohol intake."
+  },
+  {
+    "question": "What is a migraine trigger?",
+    "answer": "Common triggers include stress, certain foods, hormonal changes, sleep deprivation, and bright lights."
+  },
+  {
+    "question": "How to manage high cholesterol?",
+    "answer": "Eat a heart-healthy diet, exercise regularly, maintain a healthy weight, and take medications if prescribed."
+  },
+  {
+    "question": "What is Parkinson’s disease?",
+    "answer": "Parkinson’s disease is a neurological disorder that affects movement, causing tremors, stiffness, and balance problems."
+  },
+  {
+    "question": "How to treat dehydration?",
+    "answer": "Drink plenty of water or oral rehydration solutions, and rest in a cool environment."
+  },
+  {
+    "question": "What is insomnia?",
+    "answer": "Insomnia is difficulty falling or staying asleep, leading to daytime fatigue and irritability."
+  },
+  {
+    "question": "How to prevent common cold?",
+    "answer": "Wash hands frequently, avoid close contact with sick people, and maintain a healthy lifestyle."
+  },
+  {
+    "question": "What is thyroid disorder?",
+    "answer": "A thyroid disorder occurs when the thyroid gland produces too much or too little hormone, affecting metabolism."
+  },
+  {
+    "question": "How to treat stomach ulcer?",
+    "answer": "Avoid spicy foods, limit NSAIDs, manage stress, and take medications prescribed by a doctor."
+  },
+  {
+    "question": "What is multiple sclerosis?",
+    "answer": "Multiple sclerosis is a chronic disease affecting the central nervous system, causing nerve damage and mobility issues."
+  },
+  {
+    "question": "How to maintain kidney health?",
+    "answer": "Drink plenty of water, eat a balanced diet, limit salt, and avoid excessive use of painkillers."
+  },
+  {
+    "question": "What is anxiety disorder?",
+    "answer": "Anxiety disorder is a mental health condition causing excessive worry, nervousness, or fear."
+  },
+  {
+    "question": "How to treat minor burns?",
+    "answer": "Cool the area with water, apply aloe vera or burn ointment, and cover lightly with a clean cloth."
+  },
+  {
+    "question": "What is obesity?",
+    "answer": "Obesity is a condition where excess body fat increases the risk of health problems like heart disease and diabetes."
+  },
+  {
+    "question": "How to prevent heart disease?",
+    "answer": "Exercise regularly, eat a healthy diet, avoid smoking, manage stress, and monitor blood pressure."
+  },
+  {
+    "question": "What is anemia?",
+    "answer": "Anemia is a condition where the body lacks enough healthy red blood cells to carry oxygen to tissues."
+  },
+  {
+    "question": "How to treat diarrhea?",
+    "answer": "Drink plenty of fluids, eat bland foods, and use oral rehydration solutions if necessary."
+  },
+  {
+    "question": "What is hepatitis C?",
+    "answer": "Hepatitis C is a viral infection that affects the liver and can cause long-term liver damage."
+  },
+  {
+    "question": "How to maintain mental health?",
+    "answer": "Stay socially connected, exercise regularly, sleep well, manage stress, and seek professional help when needed."
+  },
+  {
+    "question": "What is food poisoning?",
+    "answer": "Food poisoning occurs when you consume contaminated food, causing nausea, vomiting, and diarrhea."
+  },
+   {
+    "question": "What is COPD?",
+    "answer": "Chronic Obstructive Pulmonary Disease (COPD) is a group of lung diseases that cause breathing difficulties."
+  },
+  {
+    "question": "How to treat a nosebleed?",
+    "answer": "Sit upright, lean forward slightly, pinch the soft part of your nose for 10–15 minutes, and avoid tilting your head back."
+  },
+  {
+    "question": "What is shingles?",
+    "answer": "Shingles is a viral infection that causes a painful rash, caused by the reactivation of the chickenpox virus."
+  },
+  {
+    "question": "How to prevent mosquito-borne diseases?",
+    "answer": "Use mosquito repellents, wear protective clothing, sleep under mosquito nets, and remove standing water."
+  },
+  {
+    "question": "What is anemia caused by?",
+    "answer": "Anemia can be caused by iron deficiency, vitamin B12 deficiency, chronic diseases, or blood loss."
+  },
+  {
+    "question": "How to treat heatstroke?",
+    "answer": "Move to a cool place, drink water, apply cool compresses, and seek immediate medical attention if severe."
+  },
+  {
+    "question": "What is celiac disease?",
+    "answer": "Celiac disease is an autoimmune disorder where gluten consumption damages the small intestine."
+  },
+  {
+    "question": "How to prevent hypertension?",
+    "answer": "Reduce salt intake, exercise regularly, maintain a healthy weight, avoid smoking, and manage stress."
+  },
+  {
+    "question": "What is a peptic ulcer?",
+    "answer": "A peptic ulcer is a sore that develops on the lining of the stomach or small intestine."
+  },
+  {
+    "question": "How to maintain healthy bones?",
+    "answer": "Consume calcium and vitamin D, exercise regularly, avoid smoking, and limit alcohol intake."
+  },
+  {
+    "question": "What is fibromyalgia?",
+    "answer": "Fibromyalgia is a condition characterized by widespread muscle pain, fatigue, and tenderness."
+  },
+  {
+    "question": "How to treat insect bites?",
+    "answer": "Clean the area, apply anti-itch cream or cold compress, and avoid scratching."
+  },
+  {
+    "question": "What is gout?",
+    "answer": "Gout is a type of arthritis caused by excess uric acid, leading to sudden and severe joint pain."
+  },
+  {
+    "question": "How to prevent tooth decay?",
+    "answer": "Brush twice daily, floss regularly, limit sugary foods, and visit the dentist for check-ups."
+  },
+  {
+    "question": "What is eczema?",
+    "answer": "Eczema is a skin condition that causes red, itchy, and inflamed patches on the skin."
+  },
+  {
+    "question": "How to treat constipation?",
+    "answer": "Eat fiber-rich foods, drink plenty of water, exercise regularly, and use mild laxatives if needed."
+  },
+  {
+    "question": "What is hepatitis A?",
+    "answer": "Hepatitis A is a viral liver infection caused by consuming contaminated food or water."
+  },
+  {
+    "question": "How to maintain eye health?",
+    "answer": "Eat vitamin-rich foods, take regular screen breaks, wear protective eyewear, and get regular eye exams."
+  },
+  {
+    "question": "What is psoriasis?",
+    "answer": "Psoriasis is a chronic skin condition that causes red, scaly patches due to rapid skin cell growth."
+  },
+  {
+    "question": "How to treat diarrhea in children?",
+    "answer": "Give oral rehydration solutions, encourage frequent sips of water, and consult a doctor if severe."
+  },
+  {
+    "question": "What is migraine?",
+    "answer": "A migraine is a severe headache often accompanied by nausea, vomiting, and sensitivity to light or sound."
+  },
+  {
+    "question": "How to prevent obesity?",
+    "answer": "Eat a balanced diet, exercise regularly, avoid sugary and fatty foods, and monitor your weight."
+  },
+  {
+    "question": "What is a heart murmur?",
+    "answer": "A heart murmur is an unusual sound during a heartbeat, often caused by turbulent blood flow."
+  },
+  {
+    "question": "How to treat minor burns?",
+    "answer": "Cool the burn under running water, apply aloe vera or burn ointment, and cover lightly with a clean cloth."
+  },
+  {
+    "question": "What is appendicitis?",
+    "answer": "Appendicitis is inflammation of the appendix, often causing severe abdominal pain and requiring surgery."
+  },
+  {
+    "question": "How to prevent flu?",
+    "answer": "Get vaccinated annually, wash hands frequently, and avoid close contact with sick people."
+  },
+  {
+    "question": "What is ADHD?",
+    "answer": "Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder causing inattention, hyperactivity, and impulsivity."
+  },
+  {
+    "question": "How to treat dehydration in adults?",
+    "answer": "Drink plenty of fluids, use oral rehydration solutions, and rest in a cool environment."
+  },
+  {
+    "question": "What is chronic fatigue syndrome?",
+    "answer": "Chronic fatigue syndrome is a condition characterized by extreme tiredness that doesn’t improve with rest."
+  },
+  {
+    "question": "How to maintain mental health?",
+    "answer": "Stay socially connected, exercise regularly, sleep well, manage stress, and seek professional help if needed."
+  },
+  {
+    "question": "What is food poisoning?",
+    "answer": "Food poisoning occurs when you consume contaminated food, causing nausea, vomiting, and diarrhea."
+  }
+]
+
