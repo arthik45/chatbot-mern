@@ -10,7 +10,6 @@ A real-time chatbot built with **MERN** (MongoDB, Express, React, Node.js) featu
 
 * User Authentication (Register/Login)
 * Real-time chat interface
-* Persistent user sessions
 * Responsive UI
 
 ---
@@ -29,7 +28,7 @@ A real-time chatbot built with **MERN** (MongoDB, Express, React, Node.js) featu
 ### 1. Clone Project
 
 ```bash
-git clone https://github.com/yourusername/mern-chatbot.git
+git clone https://github.com/arthik45/chatbot-mern.git
 cd mern-chatbot
 ```
 
